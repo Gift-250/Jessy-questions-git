@@ -1,2 +1,2 @@
 
-TIMEOUT = 45.... and everything is clean now
+TIMEOUT=45
